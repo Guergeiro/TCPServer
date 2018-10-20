@@ -1,4 +1,4 @@
-# TCP
+# TCPServer
 Simple Java program that uses streams to comunicate.
 This solves UDP problems more effectively.
 
